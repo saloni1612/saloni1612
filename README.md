@@ -46,11 +46,9 @@
 
 <h3 align="left">✨ About Me</h3>
 <ul align="left">
-  <li>💻 I’m currently working on enhancing my web development skills.</li>
-  <li>📚 I'm eager to learn more about frontend and backend technologies.</li>
+  <li>💻 I’m currently working on enhancing my technical skills.</li>
   <li>🚀 I love working on exciting projects that challenge my skills and push me to grow.</li>
   <li>🤝 I'm open to collaborations and excited to contribute to meaningful projects.</li>
-  <li>🎯 My goal is to become a full-stack developer and build impactful applications.</li>
   <li>🧑‍💻 Currently grinding Data Structures and Algorithms (DSA) to strengthen my problem-solving skills.</li>
 </ul>
 
